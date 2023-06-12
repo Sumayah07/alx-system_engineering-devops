@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "^[a -zA-Z]" /etc/SSH/sshd_config
+tr 'Ac' 'ze' <input _file > output_file
