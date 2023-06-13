@@ -1,2 +1,2 @@
 #!/bin/bash
-find .-type f -income "*.git" -printf "%f\n" | sort -f
+find -type f -name "*.gif" | rev | cut -d LC_ALL=C sort -f
